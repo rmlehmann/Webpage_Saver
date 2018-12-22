@@ -1,4 +1,4 @@
-import urllib.request, datetime, os.path
+import urllib.request, datetime
 
 def main():
     url = input('\nInsert the url of the page you want to download:\n')
